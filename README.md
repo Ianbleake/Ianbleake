@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianbleake&label=Watchers:&color=0eb474&style=flat-square" alt="ianbleake" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianbleake" alt="ianbleake" /></a> </p>
-
 - 🔭 I’m currently working on **as Front-end on a Digital Agency**
 
 - 🌱 I’m currently learning **how to create a API Rest**
