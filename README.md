@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IanBleake (it's a nickname)!)!</h1>
-<h3 align="center">A passionate frontend developer from CDMX! India</h3>
+<h3 align="center">A passionate frontend developer from CDMX!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianbleake&label=Watchers:&color=0eb474&style=flat-square" alt="ianbleake" /> </p>
 
