@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IanBleake (it's a nickname)!)!</h1>
+<h1 align="center">Hi 👋, I'm IanBleake (it's a nickname, I'm Ivan Rangel)!)!</h1>
 <h3 align="center">A passionate frontend developer from CDMX!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianbleake&label=Watchers:&color=0eb474&style=flat-square" alt="ianbleake" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how to create a API Rest**
 
-- 👨‍💻 All of my projects are available at [https://ianbleake.github.io/](https://ianbleake.github.io/)
+- 👨‍💻 All of my projects are available at [BleakeDev](https://bleake-dev.vercel.app/contact)
 
 - 📫 How to reach me **ang.ivan.ran@gmail.com**
 
