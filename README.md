@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [BleakeDev](https://bleake-dev.vercel.app/contact)
 
-- 📫 How to reach me **ang.ivan.ran@gmail.com**
+- 📫 How to reach me **bleakedev@gmail.com**
 
 - 📄 Know about my experiences [BleakeDev](https://bleake-dev.vercel.app/contact)
 
