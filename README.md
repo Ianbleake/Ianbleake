@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **how to create a API Rest**
 
-- 👨‍💻 All of my projects are available at [BleakeDev](https://bleake-dev.vercel.app/contact)
+- 👨‍💻 All of my projects are available at [BleakeDev](https://bleake-dev.vercel.app)
 
 - 📫 How to reach me **bleakedev@gmail.com**
 
-- 📄 Know about my experiences [BleakeDev](https://bleake-dev.vercel.app/contact)
+- 📄 Know about my experiences [BleakeDev](https://bleake-dev.vercel.app)
 
 - ⚡ Fun fact **I want to create mi own IA assistant**
 
